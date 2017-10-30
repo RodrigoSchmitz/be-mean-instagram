@@ -499,5 +499,5 @@ Após fazer isso você receberá seu certificado gratuitamente além de ajudar m
 - **Aula 03 - 25.05**
 - **Aula 04 - 26.05**
 - **Aula 05 - 27.05**
-- **PROJETO**
+- **PROJETO -- inicio**
 	+ de 28.05 a 05.06
